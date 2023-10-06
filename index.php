@@ -12,7 +12,7 @@
     <div class="table-responsive">
         <h3>Barcode Generation Form</h3><br/>
         <div class="box">
-            <form method="post" action="#">
+            <form method="post" action="bar-code.php">
                 <div class="form-group" style="width: 40%">
                     <label>Barcode Text</label>
                     <input type="text" name="bartext" id="bartext" placeholder="Enter Barcode Text" required
